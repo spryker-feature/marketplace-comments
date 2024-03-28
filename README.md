@@ -1,6 +1,6 @@
 # Spryker Feature: Marketplace Comments
 
-The marketplace comments feature enables users to leave comments on different entities within the marketplace.
+The Marketplace Comments feature enables merchant users to comment on different marketplace entities in the Merchant Portal like Merchant Relation Requests and Merchant Relations.
 
 ## Installation
 
